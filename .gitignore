@@ -1,0 +1,11 @@
+node_modules/
+package-lock.json
+doc/
+src/core/__*.ts
+lib/
+.history/
+.vscode/
+.idea
+pnpm-lock.yaml
+.DS_Store
+.git
