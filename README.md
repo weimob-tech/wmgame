@@ -5,10 +5,7 @@
 </p>
 <div align="center">
 
-[![LICENSE][license-badge]][license-url]
 
-[license-badge]: https://github.com/weimob-tech/wmgame/assets/20334773/127cb3d3-4cc1-45e9-946d-adf7b17e97f3
-[license-url]: https://github.com/weimob-tech/wmgame/blob/master/LICENSE
 
 </div>
 
